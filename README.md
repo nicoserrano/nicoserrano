@@ -2,7 +2,7 @@
 
 - ♠️ Hi, I’m @nicoserrano
 - ♥️ I am a Data Analyst  
-- ♣️ Technical skillset includes Excel, VBA, R, Python, JavaScript, SQL, Tableau
+- ♣️ Technical skills: Excel, VBA, R, Python, JavaScript, SQL, Tableau
 - ♦️ Miami, Florida
 
 ### Contact 
